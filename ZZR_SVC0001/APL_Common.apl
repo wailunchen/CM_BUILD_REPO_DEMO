@@ -287,6 +287,9 @@ int getEndPosition(CCUData ccud, int position){
     return i-1;
 }
 
+//import ultra.ZZR_SVC0017.UFL_CM_OUTBOUND_Request_List_I036;
+//sepecial  commit for git testing
+
 list<string> getCcudOutFileList (ConsumeCycleUDR  ccu ) {
     debug("-------------------------");
     debug("Function Name: getCcudOutFileList()");
