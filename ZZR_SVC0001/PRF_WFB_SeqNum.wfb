@@ -14,7 +14,7 @@
                 <Response_timeout value="60"/>
                 <Bulk_size value="0"/>
                 <Bulk_timeout value="0"/>
-                <Force_serialization value="true"/>
+                <Force_serialization value="false"/>
                 <Number_of_Collectors value="1"/>
                 <properties><![CDATA[# If needed for optimizing the performance, properties controlling the Workflow Bridge 
 # can be customized here. If the properties are commented out, default values are used.

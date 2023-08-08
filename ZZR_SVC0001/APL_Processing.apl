@@ -30,7 +30,7 @@ ConsumeCycleUDR handleECUProc(ErrorCycleUDR ecu) {
     debug("Function Name: handleECUProc()");
     debug("handleECUProc.System Id:" + sysId);
     debug("handleECUProc.Input: ecu = " + ecu);
-    
+    debug("Extra Debug: ecu = " + ecu);
     ConsumeCycleUDR ccu = (ConsumeCycleUDR) ecu.OriginalUDR;
     
     debug("handleECUProc.Output: ccu = " + ccu);    
