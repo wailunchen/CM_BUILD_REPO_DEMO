@@ -11,10 +11,10 @@
             <dr.WorkflowBridgeProfileSettings:Data ver="14.0">
                 <Reply_state value="true"/>
                 <null:Transport_UDRs/>
-                <Response_timeout value="60"/>
+                <Response_timeout value="70"/>
                 <Bulk_size value="0"/>
                 <Bulk_timeout value="0"/>
-                <Force_serialization value="false"/>
+                <Force_serialization value="true"/>
                 <Number_of_Collectors value="1"/>
                 <properties><![CDATA[# If needed for optimizing the performance, properties controlling the Workflow Bridge 
 # can be customized here. If the properties are commented out, default values are used.

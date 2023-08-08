@@ -33,6 +33,8 @@ import apl.ZZR_CA_APL.APL_Common_Variables;
 import apl.ZZC_CA_APL.APL_Common_Constants;
 import apl.ZZC_CA_APL.APL_Error_Functions;
 
+//origin/ZZR_SVC0001_999_080823
+// some fixes
 
 /* not used
 void clearExtUdrCharge(WSCycle_charge extUdr) {
